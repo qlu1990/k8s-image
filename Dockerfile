@@ -1,0 +1,1 @@
+FROM k8s.gcr.io/build-image/kube-cross:v1.23.0-go1.17.10-bullseye.0
